@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/The-Black-Mallard/TokayTokenApp#readme",
   "dependencies": {
-    "@angular/cli": "1.2.3",
+    "@angular/cli": "15.0.0",
     "angular": "^1.7.9",
     "nvm": "0.0.4"
   },
